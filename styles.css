@@ -4,3 +4,5 @@
 .portrait img{height:auto;object-fit:contain}
 
 .paper-link + .code-link{margin-left:18px}
+
+.chinese-name{display:inline-block;font-size:.45em;letter-spacing:0;vertical-align:middle;white-space:nowrap}
